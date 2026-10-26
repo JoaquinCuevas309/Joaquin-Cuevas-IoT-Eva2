@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecureLock</string>
+    <string name="alert_channel_name">Alertas de seguridad</string>
+    <string name="alert_channel_description">Avisos de apertura no autorizada de tus lockers</string>
+</resources>
